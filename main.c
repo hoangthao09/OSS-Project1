@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main(void)
+int main()
 {
-  printf("Open Source SƯ Project|n");
+  printf("Open Source SW Project\n"); 
+  printf("First GitHub Training \n");
 return 0;
 }
